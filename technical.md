@@ -257,3 +257,14 @@ Live Region은 웹 문서나 위젯, 웹 애플리케이션의 일부가 동적�
 웹 접근성은 단순히 법적 의무를 넘어, 모든 사람이 정보와 서비스를 동등하게 누릴 수 있도록 하는 기본적인 인권의 문제이다. 장애인뿐만 아니라 비장애인도 다양한 상황에서 웹 접근성의 혜택을 받을 수 있다. 웹의 창시자 팀 버너스리가 말한 것처럼, 웹의 힘은 보편성에 있다. 모든 사람이 장애에 상관없이 웹에 접근할 수 있는 환경을 만드는 것이야말로 우리 개발자가 추구해야 할 목표이다.
 
 웹 접근성을 고려한 웹사이트는 더 많은 사용자에게 다가갈 수 있고, 이는 결국 더 나은 사용자 경험을 제공한다. 개발자는 이러한 접근성을 통해 정보의 격차를 줄이고, 모두가 평등하게 웹을 사용할 수 있는 환경을 만들어야 한다. 이를 통해 더 포용적이고 공정한 디지털 세상을 만들어 나가는 것이 우리의 책임이다.
+
+## 참고자료
+
+- [한국형 웹 컨텐츠 접근성 지침 2.1, 한국웹접근성인증평가원](https://www.wa.or.kr/board/view.asp?sn=161&page=1&search=&SearchString=&BoardID=0004&cate=)
+- [예제로 살펴보는 WAI-ARIA: 정보접근성 향상을 위한 W3C 국제표준 WAI-ARIA 사례집, 한국정보화진흥원](https://jangkunblog.com/assets/file/2016.12.14-WAI-ARIA.pdf)
+- ["한국의 웹 접근성은 아직 가야 할 길이 먼 편" 웹 접근성 인증제도 운영하지만... 준수 실태는 '미흡', 오마이뉴스](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002750526)
+- [웹접근성이란?, 한국웹접근성인증평가원](https://www.wa.or.kr/m1/sub1.asp)
+- [웹 접근성 소개, W3C](https://www.w3.org/WAI/fundamentals/accessibility-intro/ko)
+- [웹 접근성 필요성, Web Soul Lab](http://www.websoul.co.kr/accessibility/necessity.asp)
+- [스크린 리더, MDN Web Docs](https://developer.mozilla.org/ko/docs/Glossary/Screen_reader)
+- [aside 태그, MDN Web Docs](https://developer.mozilla.org/ko/docs/Web/HTML/Element/aside)
