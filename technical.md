@@ -64,7 +64,7 @@ A와 B씨가 서비스를 제대로 이용할 수 없었던 이유는 바로, **
 ## WAI-ARIA?
 
 먼저 WAI-ARIA에 대해 살펴 보기 전에 RIA에 대해 알아보자.  
-웹의 빠른 발전으로 문서의 개념이 아닌 애플리케이션과 같은 사용자 경험(User eXperience, UX)을 중시하게 되었다. 이런 요구를 해결하기 위해 등장한 것이 리치 인터넷 애플리케이션(Rich Internet Applications)이다. RIA는 정적인 HTML과 단순한 자바스크립트를 넘어 보다 동적인 자바스크립트와 Ajax(Asyncronous Javascript and XML) 등의 기술을 활용한다. 이로 인해 향상된 UX를 사용자에게 제공할 수 있다.
+웹의 빠른 발전으로 인해, 웹은 더이상 문서의 개념이 아닌 애플리케이션처럼 사용되면서 사용자 경험(User eXperience, UX)을 중시하게 되었다. 이런 요구를 해결하기 위해 등장한 것이 리치 인터넷 애플리케이션(Rich Internet Applications)이다. RIA는 정적인 HTML과 단순한 자바스크립트를 넘어 보다 동적인 자바스크립트와 Ajax(Asyncronous Javascript and XML) 등의 기술을 활용한다. 이로 인해 향상된 UX를 사용자에게 제공할 수 있다.
 
 그러나, 모든 사용자가 동등하게 접근할 수 없다는 문제가 존재했다. 스크린 리더 등의 보조기술을 사용하는 사용자는 RIA 기술를 활용한 웹 애플리케이션을 제대로 사용할 수 없었다. 이로 인해 등장한 것이 바로 **WAI-ARIA(Web Accessibility
 Initiative - Web Accessible Rich Internet Applications)** 이다. WAI-ARIA는 W3C에서 웹 컨텐츠 및 웹 애플리케이션의 접근성과 상호 운용성을 개선하기 위해 발표한 기술 명세이다. 역할(Role), 속성(Property), 상태(State) 정보를 추가하여 스크린 리더 및 보조기기 등에서 접근성 및 상호 운용성을 향상시킨다.
